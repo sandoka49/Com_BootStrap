@@ -1,0 +1,52 @@
+.body{
+    font: 20px arial,sans-serif;
+}
+
+.navbar {
+    background-color: #FFF0F5;
+    ;
+    padding: 60px;
+   
+}
+
+.quem-somos{
+    background-color: #FFDAB9;
+    color: black;
+}
+.margin{
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.parceiros{
+      background-color: #819FF7;
+      color: blue;
+}
+.bg-footer{
+    background-color: black;
+    color:white;
+}
+.servicos{
+color: maroon;
+font: verdana;
+}
+.dista{
+    padding-top: 20px;
+}
+.linha{
+    text-align: justify;
+}
+.roda{
+    border-radius:50%;
+    border: 2px solid black;
+    background-color:whitesmoke;
+     height: 450px;
+     width: 450px;
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+ 
+}
+.photo{
+    border: 2px dashed black;
+    transition: box-shadow 1.5px ease-in-out;
+}
